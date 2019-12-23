@@ -1,2 +1,1 @@
-# Kirpa
-Created with CodeSandbox
+https://csb-zdmjq.netlify.com
